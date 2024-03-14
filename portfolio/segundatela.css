@@ -1,0 +1,29 @@
+.menu-container {
+    width: 200px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.menu-container h2 {
+    margin-bottom: 20px;
+}
+
+.menu-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-container li {
+    margin-bottom: 10px;
+}
+
+.menu-container li ul {
+    margin-top: 5px;
+}
+
+.menu-container li ul li {
+    margin-left: 20px;
+}
